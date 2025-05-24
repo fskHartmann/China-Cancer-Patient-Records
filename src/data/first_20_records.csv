@@ -1,0 +1,21 @@
+PatientID,Gender,Age,Province,Ethnicity,TumorType,CancerStage,DiagnosisDate,TumorSize,Metastasis,TreatmentType,SurgeryDate,ChemotherapySessions,RadiationSessions,SurvivalStatus,FollowUpMonths,SmokingStatus,AlcoholUse,GeneticMutation,Comorbidities
+CHN-00001,Male,32,Hunan,Han,Lung,I,2010-07-24,8.2,No,Radiation,2010-08-24,0,23,Alive,44,Current,,,
+CHN-00002,Male,66,Sichuan,Han,Lung,IV,2015-01-03,9.5,Yes,Chemotherapy,2015-03-24,11,0,Deceased,57,Never,Occasional,EGFR,"Hepatitis B, Hypertension"
+CHN-00003,Other,26,Guangdong,Han,Lung,III,2022-03-26,9.3,Yes,Surgery,2022-07-14,0,0,Alive,40,Former,,,
+CHN-00004,Other,35,Anhui,Uyghur,Breast,III,2019-06-19,7.7,No,Surgery,2019-08-27,0,0,Deceased,45,Never,Occasional,KRAS,
+CHN-00005,Male,32,Guangdong,Han,Stomach,II,2012-02-07,7.3,No,Chemotherapy,,4,0,Alive,42,Never,,,
+CHN-00006,Male,40,Hebei,Han,Liver,II,2021-05-02,4.2,No,Targeted Therapy,,2,0,Alive,37,Current,Occasional,KRAS,
+CHN-00007,Male,32,Guangdong,Han,Lung,IV,2022-08-03,13.3,No,Chemotherapy,2023-01-22,10,0,Alive,13,Never,,,Hepatitis B
+CHN-00008,Other,23,Sichuan,Han,Stomach,IV,2022-03-23,5.9,Yes,Immunotherapy,2022-08-28,0,0,Alive,57,Current,Occasional,,Hypertension
+CHN-00009,Female,54,Hunan,Han,Lung,I,2023-03-21,5.6,No,Radiation,,0,29,Alive,49,Never,,,"Hypertension, Hepatitis B"
+CHN-00010,Other,76,Jiangsu,Han,Lung,II,2019-06-25,3.1,No,Radiation,,0,18,Alive,2,Former,,,
+CHN-00011,Female,73,Shandong,Han,Stomach,III,2013-06-27,8.2,Yes,Chemotherapy,,5,0,Deceased,3,Former,Occasional,,
+CHN-00012,Female,69,Beijing,Han,Liver,III,2012-04-17,11.4,No,Surgery,2012-06-27,0,0,Alive,60,Never,Heavy,KRAS,"Diabetes, Hypertension"
+CHN-00013,Female,54,Zhejiang,Han,Stomach,III,2017-09-18,7.2,Yes,Targeted Therapy,,19,0,Alive,8,Former,Occasional,,"Diabetes, Hypertension"
+CHN-00014,Other,35,Guangdong,Han,Colorectal,III,2020-04-21,7.2,Yes,Targeted Therapy,,0,0,Alive,48,Former,Occasional,,
+CHN-00015,Male,39,Shandong,Other,Stomach,IV,2018-06-28,10.4,Yes,Surgery,2018-08-24,0,0,Deceased,33,Never,Occasional,BRCA1,
+CHN-00016,Other,47,Beijing,Zhuang,Stomach,I,2016-07-29,6.1,No,Targeted Therapy,,16,0,Alive,46,Current,Heavy,KRAS,"Diabetes, Hypertension"
+CHN-00017,Other,84,Guangdong,Han,Cervical,III,2011-07-24,5.2,No,Surgery,2011-11-16,0,0,Alive,27,Never,,EGFR,Hepatitis B
+CHN-00018,Male,59,Anhui,Han,Breast,IV,2016-06-28,8.3,Yes,Surgery,2016-09-22,0,0,Deceased,20,Former,Occasional,,Hypertension
+CHN-00019,Male,83,Sichuan,Han,Stomach,I,2018-07-11,4.2,No,Radiation,2018-08-24,0,21,Alive,43,Never,,KRAS,
+CHN-00020,Female,64,Hunan,Han,Lung,IV,2018-03-08,9.2,No,Chemotherapy,2018-08-04,18,0,Alive,55,Never,,,
